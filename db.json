@@ -1,0 +1,108 @@
+{
+    "receitas":[
+ 
+
+        {
+            "id": 1,
+            "nome": "Hambúrguer",
+            "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+            "preco": 8.5,
+            "categoria_id": 1,
+            "img": "https://moinhoglobo.com.br/wp-content/uploads/2019/05/16-hamburguer.jpeg"
+          },
+          {
+            "id": 2,
+            "nome": "X-Búrguer",
+            "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+            "preco": 10.5,
+            "categoria_id": 1,
+            "img": "https://sachefmio.blob.core.windows.net/fotos/x-burguer-73517.jpg"
+          },
+          {
+            "id": 3,
+            "nome": "X-Bacon",
+            "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
+            "preco": 12.5,
+            "categoria_id": 1,
+            "img":"https://www.sabornamesa.com.br/media/k2/items/cache/5098e75e57e36807c173cb7490b1b0d2_XL.jpg"        
+          },
+          {
+            "id": 4,
+            "nome": "X-Tudo",
+            "descricao": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
+            "preco": 14.5,
+            "categoria_id": 1,
+            "img": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/85/f2/db/xtudo-duplo.jpg"
+          },
+          {
+            "id": 5,
+            "nome": "Coca cola 350ml",
+            "descricao": "",
+            "preco": 5.5,
+            "categoria_id": 2,
+            "img": "https://mercantilnovaera.vtexassets.com/arquivos/ids/206262/Refrigerante-COCA-COLA-Lata-350ml.jpg?v=638174264397000000"
+          },
+          {
+            "id": 6,
+            "nome": "Coca cola 600ml",
+            "descricao": "",
+            "preco": 7.5,
+            "categoria_id": 2,
+            "img":"https://andinacocacola.vtexassets.com/arquivos/ids/155663/7894900011609_02.jpg?v=637722481040570000"
+          },
+          {
+            "id": 7,
+            "nome": "Pizza de Pepperoni",
+            "descricao": "Massa fina e crocante. Molho de tomate temperado. Queijo mozzarella derretido. Pepperoni fatiado (salame picante e defumado)",
+            "preco": 20.50,
+            "categoria_id": 2,
+            "img": "https://fyoti.com.br/wp-content/uploads/2019/11/Receita-de-Pizza-de-Pepperoni-na-Fritadeira-El%C3%A9trica.jpg"
+         },
+         {
+          "id": 8,
+          "nome": "Pizza Margherita",
+          "descricao": "Massa fina e crocante. Molho de tomate, queijo mozzarella e manjericão fresco.",
+          "preco": 18.00,
+          "categoria_id": 2,
+          "img": "https://www.sabornamesa.com.br/media/k2/items/cache/2c3125eb8597b442fad87e2c031423e6_XL.jpg"
+       },
+       {
+          "id": 9,
+          "nome": "Pizza Quatro Queijos",
+          "descricao": "Massa fina e crocante. Molho de tomate, queijo mozzarella, queijo parmesão, queijo gorgonzola e queijo provolone.",
+          "preco": 22.00,
+          "categoria_id": 2,
+          "img": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/d036cd01122da62bf581784f52d99b3a.jpg?itok=6Z4x3t4u"
+       },
+       {
+          "id": 10,
+          "nome": "Pizza de Frango com Catupiry",
+          "descricao": "Massa fina e crocante. Molho de tomate, pedaços de frango grelhado e Catupiry cremoso.",
+          "preco": 21.50,
+          "categoria_id": 2,
+          "img": "https://www.sabornamesa.com.br/media/k2/items/cache/ada34cd2101afafaba465aad112ee3c1_XL.jpg"
+       }
+         
+        ],
+        "categorias": [
+          {
+            "id": 1,
+            "nome": "Hambúrgueres",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-0SEVtHcW0utnh2qZYSFY7SijaGdwuS0Bg&usqp=CAU"
+          },
+          {
+            "id": 2,
+            "nome":"Bebidas",
+            "img": "https://cdn-icons-png.flaticon.com/512/1651/1651831.png"
+          },
+          {
+            "id": 3,
+            "nome": "Pizza",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvChT_XvS4Gyz8umD_59qZuGRvZZVEF3KT_sV-PU6sMg&s"
+          }
+
+
+
+
+    ]
+}
