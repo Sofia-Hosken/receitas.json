@@ -55,7 +55,7 @@
             "nome": "Pizza de Pepperoni",
             "descricao": "Massa fina e crocante. Molho de tomate temperado. Queijo mozzarella derretido. Pepperoni fatiado (salame picante e defumado)",
             "preco": 20.50,
-            "categoria_id": 2,
+            "categoria_id": 3,
             "img": "https://fyoti.com.br/wp-content/uploads/2019/11/Receita-de-Pizza-de-Pepperoni-na-Fritadeira-El%C3%A9trica.jpg"
          },
          {
@@ -63,7 +63,7 @@
           "nome": "Pizza Margherita",
           "descricao": "Massa fina e crocante. Molho de tomate, queijo mozzarella e manjericão fresco.",
           "preco": 18.00,
-          "categoria_id": 2,
+          "categoria_id": 3,
           "img": "https://www.sabornamesa.com.br/media/k2/items/cache/2c3125eb8597b442fad87e2c031423e6_XL.jpg"
        },
        {
@@ -71,7 +71,7 @@
           "nome": "Pizza Quatro Queijos",
           "descricao": "Massa fina e crocante. Molho de tomate, queijo mozzarella, queijo parmesão, queijo gorgonzola e queijo provolone.",
           "preco": 22.00,
-          "categoria_id": 2,
+          "categoria_id": 3,
           "img": "https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/d036cd01122da62bf581784f52d99b3a.jpg?itok=6Z4x3t4u"
        },
        {
@@ -79,7 +79,7 @@
           "nome": "Pizza de Frango com Catupiry",
           "descricao": "Massa fina e crocante. Molho de tomate, pedaços de frango grelhado e Catupiry cremoso.",
           "preco": 21.50,
-          "categoria_id": 2,
+          "categoria_id": 3,
           "img": "https://www.sabornamesa.com.br/media/k2/items/cache/ada34cd2101afafaba465aad112ee3c1_XL.jpg"
        }
          
