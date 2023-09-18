@@ -50,6 +50,9 @@
             "categoria_id": 2,
             "img":"https://andinacocacola.vtexassets.com/arquivos/ids/155663/7894900011609_02.jpg?v=637722481040570000"
           },
+          
+
+
           {
             "id": 7,
             "nome": "Pizza de Pepperoni",
@@ -81,7 +84,24 @@
           "preco": 21.50,
           "categoria_id": 3,
           "img": "https://www.sabornamesa.com.br/media/k2/items/cache/ada34cd2101afafaba465aad112ee3c1_XL.jpg"
-       }
+       },
+       {
+        "id": 11,
+        "nome": "fanta 600ml",
+        "descricao": "",
+        "preco": 5.5,
+        "categoria_id": 2,
+        "img":"https://static.paodeacucar.com/img/uploads/1/382/24599382.jpg"
+      },
+      {
+        "id": 12,
+        "nome": "fanta 600ml",
+        "descricao": "Guarana 600ml",
+        "preco": 6.5,
+        "categoria_id": 2,
+        "img":"https://m.media-amazon.com/images/I/71X4F6MG44L.jpg"
+      }
+
          
         ],
         "categorias": [
